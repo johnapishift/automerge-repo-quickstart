@@ -27,7 +27,7 @@ function App({ docUrl }: { docUrl: AutomergeUrl }) {
             <img src={automergeLogo} className="logo" alt="Automerge logo" />
           </a>
         <h1>
-          My Automerge Task List
+          My Automerge Task List 2
         </h1>
       </header>
 
